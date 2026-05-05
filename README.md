@@ -1,7 +1,7 @@
 # 🚀 Introduction to Computer Science (ICS) — BSCS Semester 1
 
 <p align="center">
-  <b>Programming Fundamentals | C++ Practice | Lab Tasks & Assignments</b>
+  <b>Introduction To Computing Science| C++ Practice | Lab Tasks & Assignments</b>
 </p>
 
 ---
