@@ -155,5 +155,5 @@ Through this course, I learned:
 ---
 
 <p align="center">
-⭐ If you like this repository, don't forget to give it a star!
+⭐ If you like this repository, don't forget to give it a star..Thank you!
 </p>
